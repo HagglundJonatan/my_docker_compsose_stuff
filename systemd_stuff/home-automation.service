@@ -1,0 +1,21 @@
+# /etc/systemd/system/home-automation.service
+
+[Unit]
+Description=Home Automation Service
+Requires=docker.service
+After=docker.service
+
+[Service]
+WorkingDirectory=/home/pi/my_docker_compose_stuff
+User=pi
+
+ExecStart=/usr/local/bin/docker-compose up
+ExecStop=/usr/local/bin/docker-compose down
+
+TimeoutStartSec=5
+Restart=always
+StartLimitIntervalSec=60
+StartLimitBurst=3
+
+[Install]
+WantedBy=multi-user.target
