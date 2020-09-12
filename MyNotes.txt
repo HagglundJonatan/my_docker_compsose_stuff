@@ -1,0 +1,7 @@
+docker-compose up --> starts all serives in docker-compose.yaml.
+
+docker-compose down --> stops and removes the running containers 
+
+To run docker-compose in the background add '-d' (detached mode) to the "docker-compose up" command. To stop when running in background do this: "docker-compose stop".
+
+docker-compose ps --> shows whats running.

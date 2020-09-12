@@ -1,0 +1,6 @@
+2020-09-12 02:29:41 WARNING (Recorder) [homeassistant.components.recorder] Ended unfinished session (id=12 from 2020-09-11 15:46:30.979290)
+2020-09-12 11:53:14 WARNING (Thread-6) [pychromecast.socket_client] [Musikspelaren(192.168.1.39):8009] Heartbeat timeout, resetting connection
+2020-09-12 11:53:14 WARNING (Thread-7) [pychromecast.socket_client] [Bisamråttan(192.168.1.40):8009] Heartbeat timeout, resetting connection
+2020-09-12 12:11:10 WARNING (Thread-7) [pychromecast.socket_client] [Bisamråttan(192.168.1.40):8009] Heartbeat timeout, resetting connection
+2020-09-12 12:11:27 ERROR (Thread-7) [pychromecast.socket_client] [Bisamråttan(192.168.1.40):8009] Failed to connect to service Chromecast-Ultra-eb9374d1819684733a913c9d18640607._googlecast._tcp.local., retrying in 5.0s
+2020-09-12 12:15:11 ERROR (Thread-7) [pychromecast.socket_client] [Bisamråttan(192.168.1.40):8009] Failed to connect. No retries.

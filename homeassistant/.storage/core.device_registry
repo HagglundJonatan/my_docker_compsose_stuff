@@ -1,0 +1,51 @@
+{
+    "version": 1,
+    "key": "core.device_registry",
+    "data": {
+        "devices": [
+            {
+                "config_entries": [
+                    "f5ac3b21f39311eaa5d211181b476dd3"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "cast",
+                        "eb9374d1819684733a913c9d18640607"
+                    ]
+                ],
+                "manufacturer": "Google Inc.",
+                "model": "Chromecast Ultra",
+                "name": "Bisamr\u00e5ttan",
+                "sw_version": null,
+                "entry_type": null,
+                "id": "f608ea8bf39311ea88eb59de1543572f",
+                "via_device_id": null,
+                "area_id": "a61a98dcf39311ea87c6f9c572ba3b5a",
+                "name_by_user": null
+            },
+            {
+                "config_entries": [
+                    "f5ac3b21f39311eaa5d211181b476dd3"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "cast",
+                        "d8a93af04b3d145c5a195b41a85b43bc"
+                    ]
+                ],
+                "manufacturer": "Google Inc.",
+                "model": "Chromecast Audio",
+                "name": "Musikspelaren",
+                "sw_version": null,
+                "entry_type": null,
+                "id": "f60deefff39311ea82b61d271fce8f98",
+                "via_device_id": null,
+                "area_id": "a61a98dcf39311ea87c6f9c572ba3b5a",
+                "name_by_user": null
+            }
+        ],
+        "deleted_devices": []
+    }
+}

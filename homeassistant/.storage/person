@@ -1,0 +1,14 @@
+{
+    "version": 2,
+    "key": "person",
+    "data": {
+        "items": [
+            {
+                "name": "Jonte",
+                "user_id": "1f132e6b872345abb147580cd1fa3d97",
+                "device_trackers": [],
+                "id": "jonte"
+            }
+        ]
+    }
+}
